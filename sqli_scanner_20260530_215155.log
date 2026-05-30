@@ -1,0 +1,5 @@
+2026-05-30 21:51:55,105 - INFO - Starting SQL Injection Scanner
+2026-05-30 21:51:55,105 - INFO - Target: http://localhost:8080/vulnerabilities/sqli/?id=1
+2026-05-30 21:51:55,105 - INFO - Log file: sqli_scanner_20260530_215155.log
+2026-05-30 21:51:55,106 - INFO - Scanning URL parameters: http://localhost:8080/vulnerabilities/sqli/?id=1
+2026-05-30 21:52:26,331 - INFO - [32m[+] Report saved to: sqli_report_20260530_215226.json[39m

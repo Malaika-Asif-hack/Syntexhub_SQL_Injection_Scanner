@@ -1,0 +1,6 @@
+2026-05-30 22:10:05,171 - INFO - Starting SQL Injection Scanner
+2026-05-30 22:10:05,171 - INFO - Target: http://localhost:8080/vulnerabilities/sqli/?id=1
+2026-05-30 22:10:05,171 - INFO - Log file: sqli_scanner_20260530_221005.log
+2026-05-30 22:10:05,263 - INFO - Logged into DVWA successfully
+2026-05-30 22:10:05,263 - INFO - Scanning URL parameters: http://localhost:8080/vulnerabilities/sqli/?id=1
+2026-05-30 22:10:35,920 - INFO - [32m[+] Report saved to: sqli_report_20260530_221035.json[39m

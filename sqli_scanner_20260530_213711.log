@@ -1,0 +1,8 @@
+2026-05-30 21:37:11,243 - INFO - Starting SQL Injection Scanner
+2026-05-30 21:37:11,243 - INFO - Target: http://localhost:8080/
+2026-05-30 21:37:11,243 - INFO - Log file: sqli_scanner_20260530_213711.log
+2026-05-30 21:37:11,244 - INFO - Scanning URL parameters: http://localhost:8080/
+2026-05-30 21:37:11,244 - INFO - Crawling: http://localhost:8080/ (Depth: 0)
+2026-05-30 21:37:12,269 - INFO - Scanning form: http://localhost:8080/login.php (POST)
+2026-05-30 21:39:03,424 - INFO - Crawling: http://localhost:8080/dvwa/css/login.css (Depth: 1)
+2026-05-30 21:39:04,440 - INFO - [32m[+] Report saved to: sqli_report_20260530_213904.json[39m

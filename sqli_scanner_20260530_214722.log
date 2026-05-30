@@ -1,0 +1,4 @@
+2026-05-30 21:47:22,175 - INFO - Starting SQL Injection Scanner
+2026-05-30 21:47:22,176 - INFO - Target: http://testphp.vulnweb.com/artists.php?artist=1
+2026-05-30 21:47:22,176 - INFO - Log file: sqli_scanner_20260530_214722.log
+2026-05-30 21:47:22,177 - INFO - Scanning URL parameters: http://testphp.vulnweb.com/artists.php?artist=1

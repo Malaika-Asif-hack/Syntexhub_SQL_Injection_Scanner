@@ -1,0 +1,12 @@
+{
+  "scan_target": "http://testphp.vulnweb.com/artists.php?artist=1",
+  "scan_time": "2026-05-30T21:47:21.428872",
+  "total_vulnerabilities": 0,
+  "vulnerabilities": [],
+  "urls_scanned": [],
+  "summary": {
+    "error_based": 0,
+    "time_based": 0,
+    "boolean_based": 0
+  }
+}

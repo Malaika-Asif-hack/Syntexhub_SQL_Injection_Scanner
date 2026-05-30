@@ -1,0 +1,6 @@
+2026-05-30 22:11:10,535 - INFO - Starting SQL Injection Scanner
+2026-05-30 22:11:10,536 - INFO - Target: http://testphp.vulnweb.com/artists.php?artist=1
+2026-05-30 22:11:10,536 - INFO - Log file: sqli_scanner_20260530_221110.log
+2026-05-30 22:11:10,635 - INFO - Logged into DVWA successfully
+2026-05-30 22:11:10,636 - INFO - Scanning URL parameters: http://testphp.vulnweb.com/artists.php?artist=1
+2026-05-30 22:16:37,213 - INFO - [32m[+] Report saved to: sqli_report_20260530_221637.json[39m
