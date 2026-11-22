@@ -20,8 +20,9 @@ Automated SQL Injection vulnerability scanner for educational purposes. Tests we
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/Syntexhub_SQL_Injection_Scanner.git
+git clone https://github.com/Malaika-Asif-hack/Syntexhub_SQL_Injection_Scanner.git
 cd Syntexhub_SQL_Injection_Scanner
 
 # Install dependencies
 pip install -r requirements.txt
+```

@@ -1,0 +1,4 @@
+sqli_scanner_*.log
+sqli_report_*.json
+__pycache__/
+.venv/
